@@ -82,22 +82,6 @@ Here are some ideas to get you started:
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="100px;" alt="Yarn/npm icon"/><br>
-      <sub>
-        <b>
-          <pre>Yarn/npm</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
 </table>
 </br>
