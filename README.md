@@ -42,6 +42,22 @@ Here are some ideas to get you started:
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="90px;" alt="MySql"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="90px;" alt="MongoDb"/><br>
+      <sub>
+        <b>
+          <pre>MongoDb</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center" width="100px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px;" alt="Git icon"/><br>
       <sub>
@@ -79,14 +95,6 @@ Here are some ideas to get you started:
       <sub>
         <b>
           <pre>ExpressJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="90px;" alt="MySql"/><br>
-      <sub>
-        <b>
-          <pre>MySql</pre>
         </b>
       </sub>
     </td>
