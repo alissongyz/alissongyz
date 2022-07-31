@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 <h2 align="center">🛠️ Languages and Tools</h2>
 <table>
   <tr>
+     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;" alt="Javascript icon"/><br>
       <sub>
@@ -61,14 +69,6 @@ Here are some ideas to get you started:
       <sub>
         <b>
           <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
         </b>
       </sub>
     </td>
