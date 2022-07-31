@@ -12,19 +12,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alissongyz&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alissongyz&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissongyz&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=alissongyz&theme=radical&hide_border=true"/>
-
-
-<div align="center">
-  <a href="https://github.com/alissongyz">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Alisson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="center" alt="Alisson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Alisson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center" alt="Alisson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img align="center" alt="Alisson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img align="center" alt="Alisson-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  </div>
-</div>
  
   ##
   
@@ -33,3 +20,131 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/alisson-arruda-7a1596203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-cauan-victor" height="30" width="40" /></a>
 <a href="https://instagram.com/alissonygx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cauanvictoroficial" height="30" width="40" /></a>
 </p>
+  
+<h2 align="center">🛠️ Languages and Tools</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px;" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px;" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px;" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px;" alt="TypeScript icon"/><br>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px;" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
+      <sub>
+        <b>
+          <pre>styled-c</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="100px;" alt="JQuery icon"/><br>
+      <sub>
+        <b>
+          <pre>JQuery</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
+      <sub>
+        <b>
+          <pre>Insomnia</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="100px;" alt="Yarn/npm icon"/><br>
+      <sub>
+        <b>
+          <pre>Yarn/npm</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100px;" alt="ExpressJS icon"/><br>
+      <sub>
+        <b>
+          <pre>ExpressJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;Axios&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+</br>
+
