@@ -1,4 +1,5 @@
-### Olá!
+<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5616AQFJyqHBqexLOQ/profile-displaybackgroundimage-shrink_200_800/0/1650917481637?e=1663804800&v=beta&t=94ezJIbK81Ji6jfBI2Dh79_o2QLdk_H-s1XxuHTH-9s" /></o>
+<h1 align="center">Hi 👋, I'm Alisson Arruda</h1>
 
 <!--
 **alissongyz/alissongyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
