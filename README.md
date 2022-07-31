@@ -12,14 +12,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alissongyz&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alissongyz&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissongyz&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=alissongyz&theme=radical&hide_border=true"/>
- 
-  ##
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alisson-arruda-7a1596203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-cauan-victor" height="30" width="40" /></a>
-<a href="https://instagram.com/alissonygx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cauanvictoroficial" height="30" width="40" /></a>
-</p>
   
 <h2 align="center">🛠️ Languages and Tools</h2>
 <table>
@@ -99,4 +91,10 @@ Here are some ideas to get you started:
   </tr>
 </table>
 </br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alisson-arruda-7a1596203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-cauan-victor" height="30" width="40" /></a>
+<a href="https://instagram.com/alissonygx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cauanvictoroficial" height="30" width="40" /></a>
+</p>
 
