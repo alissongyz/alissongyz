@@ -83,10 +83,10 @@ Here are some ideas to get you started:
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
+      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" width="90px;" alt="MySql"/><br>
       <sub>
         <b>
-          <pre>&ensp;Axios&ensp;</pre>
+          <pre>&ensp;MySql&ensp;</pre>
         </b>
       </sub>
     </td>
