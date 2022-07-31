@@ -58,6 +58,14 @@ Here are some ideas to get you started:
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJS</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center" width="100px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100px;" alt="Git icon"/><br>
       <sub>
@@ -67,18 +75,10 @@ Here are some ideas to get you started:
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100px;" alt="C# icon"/><br>
       <sub>
         <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
+          <pre>C#</pre>
         </b>
       </sub>
     </td>
@@ -91,10 +91,10 @@ Here are some ideas to get you started:
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100px;" alt="ExpressJS icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
       <sub>
         <b>
-          <pre>ExpressJS</pre>
+          <pre>Insomnia</pre>
         </b>
       </sub>
     </td>
