@@ -86,7 +86,7 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" width="90px;" alt="MySql"/><br>
       <sub>
         <b>
-          <pre>&ensp;MySql&ensp;</pre>
+          <pre>MySql</pre>
         </b>
       </sub>
     </td>
