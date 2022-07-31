@@ -82,6 +82,14 @@ Here are some ideas to get you started:
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px;" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 </table>
 </br>
