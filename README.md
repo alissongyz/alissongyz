@@ -25,30 +25,6 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px;" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px;" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px;" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;" alt="Javascript icon"/><br>
       <sub>
         <b>
@@ -77,30 +53,6 @@ Here are some ideas to get you started:
       <sub>
         <b>
           <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>styled-c</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="100px;" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
         </b>
       </sub>
     </td>
