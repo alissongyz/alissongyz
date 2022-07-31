@@ -83,7 +83,7 @@ Here are some ideas to get you started:
       </sub>
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" width="90px;" alt="MySql"/><br>
+      <img src="https://www.svgrepo.com/svg/303251/mysql-logo" width="90px;" alt="MySql"/><br>
       <sub>
         <b>
           <pre>MySql</pre>
