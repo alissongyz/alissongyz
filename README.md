@@ -75,7 +75,7 @@ Here are some ideas to get you started:
       </sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100px;" alt="C# icon"/><br>
+      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" width="100px;" alt="C# icon"/><br>
       <sub>
         <b>
           <pre>C#</pre>
