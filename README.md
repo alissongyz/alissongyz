@@ -1,53 +1,44 @@
-# Olá, eu sou Alisson Arruda! 👋
+# Hi there, I'm Alisson Arruda! 👋
 
-## 🚀 Engenheiro Fullstack | 4+ Anos de Experiência
+## 🚀 Fullstack Engineer | 4+ Years of Experience
 
-Apaixonado por tecnologia e focado em construir soluções robustas e escaláveis. Durante minha jornada, desenvolvi expertise em todo o ciclo de vida do software, desde a concepção de interfaces modernas até a arquitetura de infraestrutura na nuvem.
+Passionate about technology and focused on building robust and scalable solutions. Throughout my journey, I've developed expertise in the entire software lifecycle, from designing modern interfaces to architecting cloud infrastructure.
 
 ---
 
-### 🛠️ Minhas Stacks & Tecnologias
+### 🛠️ My Stacks & Technologies
 
 #### **Frontend**
 
 - **Next.js**, **React.js**
 - **TypeScript**, JavaScript
-- CSS Moderno, Tailwind (ou Vanilla conforme preferência)
+- Modern CSS, Tailwind
 
 #### **Backend**
 
 - **NestJs**, **Node.js**
 - **Java**
-- Arquitetura de Microserviços e APIs REST de alta performance
+- High-performance Microservices and REST APIs
 
-#### **Banco de Dados**
+#### **Database**
 
 - **PostgreSQL**, **MySQL**
 - **MongoDB**
 - Prisma ORM / TypeORM
 
-#### **Infraestrutura & DevOps**
+#### **Infrastructure & DevOps**
 
 - **Docker**
 - **Cloud:** AWS, Google Cloud Platform (GCP)
-- Deploy Continuo (CI/CD)
+- Continuous Deployment (CI/CD)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### � Let's connect!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonarruda&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonarruda&layout=compact&langs_count=7&theme=radical" />
-</div>
+- 💼 **LinkedIn:** [linkedin.com/in/alisson-arruda-7a1596203](https://www.linkedin.com/in/alisson-arruda-7a1596203)
+- 📧 **Email:** [contatoalisson.arruda@outlook.com](mailto:contatoalisson.arruda@outlook.com)
 
 ---
 
-### 📫 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alissonarruda/)
-- 📧 [E-mail](mailto:seu-email@exemplo.com)
-
----
-
-> _"Transformando ideias complexas em soluções de software simples e eficientes."_
+> _"Transforming complex ideas into simple and efficient software solutions."_
